@@ -10,7 +10,7 @@ I'm a second-year computing student at the Open University in London, passionate
 
 ## Get in Touch
 - 📧 You can contact me via email at: me@isaacpaha.com
-- 🌐 Check out my personal website: isaacpaha.com 
+- 🌐 Check out my personal website: www.isaacpaha.com 
 
 Let's explore the exciting world of technology together! Feel free to connect with me, and let's create something amazing! 🚀
 
