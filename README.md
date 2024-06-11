@@ -1,6 +1,6 @@
 # Hello, I'm Isaac Paha 👋
 
-I'm a second-year computing student at the Open University in London, passionate about technology and software development. 🚀
+I'm a final-year computing student at the Open University in London, passionate about technology and software development. 🚀
 
 ## About Me
 - 🌟 I have an insatiable curiosity for all things tech, and I'm constantly exploring and learning about new technologies.
