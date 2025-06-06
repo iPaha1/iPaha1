@@ -19,7 +19,7 @@ I build scalable, secure, and impactful web applications for individuals, busine
 ### 🌍 Featured Projects
 - [okadwuma.com](https://okadwuma.com) – Job Search Platform for Ghana
 - [okddwa.com](https://okddwa.com) – Multi-Tenant Ecommerce Platform
-- [paralelme.com(https://paralelme.com) - An AI Powered Life Coach
+- [paralelme.com](https://paralelme.com) - An AI Powered Life Coach
 
 ---
 
