@@ -1,16 +1,26 @@
-# Hello, I'm Isaac Paha 👋
+# 👋 Hi, I'm Isaac Paha
 
-I'm a final-year computing student at the Open University in London, passionate about technology and software development. 🚀
+I'm a passionate full-stack developer and the founder of three tech companies:
 
-## About Me
-- 🌟 I have an insatiable curiosity for all things tech, and I'm constantly exploring and learning about new technologies.
-- 💻 I enjoy coding and creating programs to solve everyday problems that computers can help with.
-- 👨‍💻 I'm open to collaborating with like-minded individuals who share my curiosity and enthusiasm for technology.
-- 🤝 I'm also interested in collaborating on work and coding projects, so feel free to reach out if you have something in mind!
+- 🇬🇧 **iPaha Ltd** – IT Consulting & Development | [ipahait.com](https://ipahait.com)  
+- 🇬🇧 **iPahaStores Ltd** – E-commerce & SaaS | [ipahastore.com](https://ipahastore.com)  
+- 🇬🇭 **Okpah Ltd** – Local Tech Solutions in Ghana | [okpah.com](https://okpah.com)  
 
-## Get in Touch
-- 📧 You can contact me via email at: pahaisaac@gmail.com
-- 🌐 Check out my personal website: www.isaacpaha.com 
+### 🧠 What I Do
 
-Let's explore the exciting world of technology together! Feel free to connect with me, and let's create something amazing! 🚀
+I build scalable, secure, and impactful web applications for individuals, businesses, and institutions across the UK and Ghana. My work focuses on solving real-world challenges using modern technologies.
 
+### 🛠️ Tech Stack
+- Frontend: React, Next.js, Tailwind CSS, ShadCN UI  
+- Backend: Node.js, Prisma ORM, MySQL  
+- Auth & Payments: Clerk, Stripe, MoMo  
+- Other Tools: Vercel, GitHub, Cloudinary
+
+### 🌍 Featured Projects
+- [okadwuma.com](https://okadwuma.com) – Job Search Platform for Ghana
+- [okddwa.com](https://okddwa.com) – Multi-Tenant Ecommerce Platform
+- [paralelme.com(https://paralelme.com) - An AI Powered Life Coach
+
+---
+
+🚀 Always learning. Always building. Let’s connect and build something meaningful together.
